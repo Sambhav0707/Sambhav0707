@@ -14,8 +14,8 @@ I'm a passionate full-stack developer with a strong foundation in modern web tec
 
 ## Current Focus
 
-- 🚀 **Active Projects**: E-commerce application and professional portfolio website
-- 📚 **Learning**: Flutter for cross-platform mobile development and Node.js for backend services
+
+- 📚 **Learning**: Flutter for cross-platform mobile development and Golang for backend services
 - 🎯 **Goals**: Contributing to open-source projects and building innovative solutions
 
 ## Technical Skills
